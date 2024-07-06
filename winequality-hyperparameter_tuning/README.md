@@ -152,7 +152,7 @@ I am enthusiastic about leveraging the insights gained from this project in futu
 
 #### Supporting Documents
 
-- [Project Code and Notebooks](https://github.com/paschalugwu/alx-data_science-NLP/Classification_hyperparameter_tuning_code_challenge_student_version.ipynb)
+- [Project Code and Notebooks](https://github.com/paschalugwu/alx-data_science-NLP/raw/main/winequality-hyperparameter_tuning/Classification_hyperparameter_tuning_code_challenge_student_version.ipynb)
 
 #### References
 
